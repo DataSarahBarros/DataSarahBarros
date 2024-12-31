@@ -26,7 +26,7 @@
 
 #### 📊 (link)
 #### 📄 (link)
-#### 🟦 [LinkedIn](https://www.linkedin.com/in/sarah-barros-b24bb91b4/
+#### 🟦 [LinkedIn](https://www.linkedin.com/in/sarah-barros-b24bb91b4/)
 
 
 <br>
