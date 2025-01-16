@@ -1,4 +1,4 @@
-<h1>Olá! Bem-vindo(a) ao meu repositório! </h1>
+e<h1>Olá! Bem-vindo(a) ao meu repositório! </h1>
 
 <br>
 
@@ -13,10 +13,10 @@
 | **Hard Skills**                              | **Soft Skills**              |
 |----------------------------------------------|------------------------------|
 | Coleta e Tratamento de Dados                 | Resolução de problemas       |
-| Python                                       | Pensamento crítico           |
-| Power BI                                     | Trabalho em equipe           |
-| Estatística                                  | Proatividade                 |
-| Business Intelligence                        | Aprendizado rápido           |
+| Python (Lógica de programação e Algoritmo)   | Pensamento crítico           |
+| Power BI (Dax e M)                           | Trabalho em equipe           |
+| Estatística e Probabilidade                  | Proatividade                 |
+| Business Intelligence and Market             | Aprendizado rápido           |
 | SQL                                          | Adaptabilidade               |
 | Excel                                        | Inovação                     |
 
