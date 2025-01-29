@@ -26,7 +26,7 @@
 
 #### 📊 [Portfólio](https://github.com/DataSarahBarros?tab=repositories)
 #### 📄 [Currículo](https://github.com/user-attachments/files/18432173/Curriculo.Sarah.Barros.pdf)
-#### 🟦 [inkedIn](https://www.linkedin.com/in/sarah-barros-b24bb91b4/)
+#### 🟦 [LinkedIn](https://www.linkedin.com/in/sarah-barros-b24bb91b4/)
 
 
 <br>
