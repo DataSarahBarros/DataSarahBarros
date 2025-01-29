@@ -28,7 +28,6 @@
 #### 📄 [Currículo](https://github.com/user-attachments/files/18432173/Curriculo.Sarah.Barros.pdf)
 #### 🟦 [Linkedin](https://www.linkedin.com/in/sarah-barros-b24bb91b4/)
 
-
 <br>
 
 ## Entre em contato comigo 💻
