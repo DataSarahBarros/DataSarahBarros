@@ -24,7 +24,7 @@
 
 ## Portfólios
 
-#### 📊 [Portfólio]()
+#### 📊 [Portfólio]([https://github.com/user-attachments/files/20091643/Curriculo_Sarah_Barros.pdf](https://app.powerbi.com/view?r=eyJrIjoiMmNhZDFkNTktZTZkMi00YjI5LTg2NGMtY2Q0ZmFjMjJkYTI2IiwidCI6IjE3YzQwY2IwLTI2NmItNGViOC1iMTdjLTZkYzYyMTc4ZDcxOCJ9))
 #### 📄 [Currículo](https://github.com/user-attachments/files/20091643/Curriculo_Sarah_Barros.pdf)
 #### 🟦 [Linkedin](https://www.linkedin.com/in/sarah-barros-b24bb91b4/)
 
