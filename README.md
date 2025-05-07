@@ -6,17 +6,17 @@
 
 - 🔭 Buscando oportunidades para ingressar na área de Análise e Ciência de Dados
 - 🎓 Graduando em Administração de Empresas
-- 💻 4 anos no mercado de trabalho, sendo 2 deles na área BI (Business Intelligence)
+- 💻 5 anos no mercado de trabalho com Análise de Dados voltada para Inteligência de Negócios/Business intelligence
 
 <br>
 
 | **Hard Skills**                              | **Soft Skills**              |
 |----------------------------------------------|------------------------------|
 | Coleta e Tratamento de Dados                 | Resolução de problemas       |
-| Python (Lógica de programação e Algoritmo)   | Pensamento crítico           |
-| Power BI (Dax e M)                           | Trabalho em equipe           |
+| Python (Pandas, Jupyter, NumPy etc...)       | Pensamento crítico           |
+| Power BI (Dax)                               | Trabalho em equipe           |
 | Estatística e Probabilidade                  | Proatividade                 |
-| Business Intelligence and Market             | Aprendizado rápido           |
+| Business Intelligence                        | Aprendizado rápido           |
 | SQL                                          | Adaptabilidade               |
 | Excel                                        | Inovação                     |
 
