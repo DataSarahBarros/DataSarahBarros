@@ -25,7 +25,7 @@
 ## Portfólios
 
 #### 📊 [Portfólio]()
-#### 📄 [Currículo]([Currículo_Sarah_Barros.pdf](https://github.com/user-attachments/files/20091492/Curriculo_Sarah_Barros.pdf))
+#### 📄 [Curriculo](https://github.com/user-attachments/files/20091635/Curriculo.Sarah.Barros.3.pdf)
 #### 🟦 [Linkedin](https://www.linkedin.com/in/sarah-barros-b24bb91b4/)
 
 <br>
