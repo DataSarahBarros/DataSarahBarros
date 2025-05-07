@@ -6,7 +6,7 @@
 
 - 🔭 Buscando oportunidades para ingressar na área de Análise e Ciência de Dados
 - 🎓 Graduando em Administração de Empresas
-- 💻 5 anos no mercado de trabalho com Análise de Dados voltada para Inteligência de Negócios/Business intelligence
+- 💻 5 anos no mercado de trabalho, sendo 3 deles como Análista de Dados voltada para Inteligência de Negócios/Business intelligence
 
 <br>
 
