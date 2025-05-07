@@ -24,7 +24,7 @@
 
 ## Portfólios
 
-#### 📊 [Portfólio]([https://github.com/DataSarahBarros?tab=repositories](https://app.powerbi.com/view?r=eyJrIjoiMmNhZDFkNTktZTZkMi00YjI5LTg2NGMtY2Q0ZmFjMjJkYTI2IiwidCI6IjE3YzQwY2IwLTI2NmItNGViOC1iMTdjLTZkYzYyMTc4ZDcxOCJ9)
+#### 📊 [Portfólio]([https://github.com/DataSarahBarros?tab=repositories](https://app.powerbi.com/view?r=eyJrIjoiMmNhZDFkNTktZTZkMi00YjI5LTg2NGMtY2Q0ZmFjMjJkYTI2IiwidCI6IjE3YzQwY2IwLTI2NmItNGViOC1iMTdjLTZkYzYyMTc4ZDcxOCJ9))
 #### 📄 [Currículo](https://github.com/user-attachments/files/18432173/Curriculo.Sarah.Barros.pdf)
 #### 🟦 [Linkedin](https://www.linkedin.com/in/sarah-barros-b24bb91b4/)
 
